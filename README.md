@@ -21,7 +21,7 @@ Metapath2vec: Heterogeneous Network Embedding (XWT, KDD 2017)
 
 
 
-### Week 3
+### Week 3 (BP algorithm)
 
 Learning the BP algorithm and writing some codes
 
