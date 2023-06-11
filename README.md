@@ -24,3 +24,12 @@ Metapath2vec: Heterogeneous Network Embedding (XWT, KDD 2017)
 Week 3
 
 Learning the BP algorithm and writing some codes
+
+
+Week 4 (graph neural networks)
+
+Graph Convolutional Matrix Completion (XQQ, KDD-workshop 2018)
+
+Graph Convolutional Networks (YS, ICLR 2017)
+
+Inductive Representation Learning on Large Graphs (XWT, NIPS 2017)
