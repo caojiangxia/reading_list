@@ -33,3 +33,13 @@ Graph Convolutional Matrix Completion (XQQ, KDD-workshop 2018)
 Graph Convolutional Networks (YS, ICLR 2017)
 
 Inductive Representation Learning on Large Graphs (XWT, NIPS 2017)
+
+
+### Week 5 (Pytorch Learning and Code Reading)
+
+Code: https://github.com/tkipf/pygcn
+API document: https://pytorch.org/docs/stable/index.html
+
+XQQ: Dataloader Explanation
+XWT: Model and Training Explanation
+YS: Model Evaluation and Metrics Explanation
