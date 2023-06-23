@@ -41,5 +41,7 @@ Code: https://github.com/tkipf/pygcn
 API document: https://pytorch.org/docs/stable/index.html
 
 XQQ: Dataloader Explanation
+
 XWT: Model and Training Explanation
+
 YS: Model Evaluation and Metrics Explanation
