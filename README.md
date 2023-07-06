@@ -45,3 +45,11 @@ XQQ: Dataloader Explanation
 XWT: Model and Training Explanation
 
 YS: Model Evaluation and Metrics Explanation
+
+### Week 6 (Content-based Recommendation)
+
+ANR: Aspect-Based Neural Recommender (XQQ, CIKM 2018)
+
+Cross-Domain Recommendation: An Embedding and Mapping Approach (YS, IJCAI 2017)
+
+CATN: Cross-Domain Recommendation for Cold-Start Users Via Aspect Transfer Network (XWT, SIGIR 2020)
