@@ -53,3 +53,11 @@ ANR: Aspect-Based Neural Recommender (XQQ, CIKM 2018)
 Cross-Domain Recommendation: An Embedding and Mapping Approach (YS, IJCAI 2017)
 
 CATN: Cross-Domain Recommendation for Cold-Start Users Via Aspect Transfer Network (XWT, SIGIR 2020)
+
+### Week 7 (Sequential Modeling)
+
+Attention Is All You Need (XQQ, NIPS 2017)
+
+SASRec: Self-Attentive Sequential Recommendation (YS, ICDM 2018)
+
+Sequential Recommendation with Graph Neural Networks (XWT. SIGIR 2021)
