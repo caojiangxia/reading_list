@@ -54,6 +54,7 @@ Cross-Domain Recommendation: An Embedding and Mapping Approach (YS, IJCAI 2017)
 
 CATN: Cross-Domain Recommendation for Cold-Start Users Via Aspect Transfer Network (XWT, SIGIR 2020)
 
+
 ### Week 7 (Sequential Modeling)
 
 Attention Is All You Need (XQQ, NIPS 2017)
@@ -61,3 +62,11 @@ Attention Is All You Need (XQQ, NIPS 2017)
 SASRec: Self-Attentive Sequential Recommendation (YS, ICDM 2018)
 
 Sequential Recommendation with Graph Neural Networks (XWT. SIGIR 2021)
+
+### Week 8 (Contrastive Learning)
+
+Graph Contrastive Learning with Multi-Objective for Personalized Product Retrieval in Taobao Search (XQQ, Arxiv 2023)
+
+Bipartite Graph Embedding via Mutual Information Maximization (YS, WSDM 2021)
+
+XSimGCL: Towards Extremely Simple Graph Contrastive Learning (XWT. TKDE 2022)
