@@ -83,10 +83,10 @@ S-Walk: Accurate and Scalable Session-based Recommendation with Random Walks (WS
 
 ### Week 7 (Large Language Model)
 
-RoFormer: Enhanced Transformer with Rotary Position Embedding (Arxiv 2021)
-
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
 &
+RoFormer: Enhanced Transformer with Rotary Position Embedding (Arxiv 2021)
+
 Language Models are Few-Shot Learners (Arxiv 2020)
 
 GLM: General Language Model Pretraining with Autoregressive Blank Infilling (ACL 2022)
