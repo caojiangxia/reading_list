@@ -83,11 +83,13 @@ S-Walk: Accurate and Scalable Session-based Recommendation with Random Walks (WS
 
 ### Week 7 (Large Language Model)
 
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
+RoFormer: Enhanced Transformer with Rotary Position Embedding (Arxiv 2021)
 
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
+&
 Language Models are Few-Shot Learners (Arxiv 2020)
 
-Large Language Models are Zero-Shot Rankers for Recommender Systems (Arxiv 2023)
+GLM: General Language Model Pretraining with Autoregressive Blank Infilling (ACL 2022)
 
 Large Language Models are Zero-Shot Rankers for Recommender Systems (Arxiv 2023)
 
@@ -99,13 +101,13 @@ Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Pr
 
 ### Week 8 (Contrastive Learning)
 
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Arxiv 2020)
+
 Learning Transferable Visual Models From Natural Language Supervision (Arxiv 2021)
 
 Flamingo: a Visual Language Model for Few-Shot Learning (NeurIPS 2022)
 
 BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models (Arxiv 2023)
-
-LLaVA: Large Language and Vision Assistant (NeruIPS 2023)
 
 Graph Contrastive Learning with Multi-Objective for Personalized Product Retrieval in Taobao Search ()
 
