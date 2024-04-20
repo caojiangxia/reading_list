@@ -128,7 +128,7 @@ CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process (WSDM 
 
 
 
-### Week 10 (Privacy-based Recommendation)
+### Week 10 (Privacy-based Recommendation - Part.1)
 
 Federated Matrix Factorization with Privacy Guarantee (VLDB 2022)
 
@@ -139,3 +139,43 @@ Horizontal Cross-Silo Federated Recommender Systems (KDD 2022)
 LightFR Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization (TOIS 2022)
 
 Preserving Synthetic Data Generation for Recommendation Systems (SIGIR 2022)
+
+
+### Week 11 (Privacy-based Recommendation - Part.2)
+
+A Comprehensive Survey on Privacy-Preserving Techniques in Federated Recommendation Systems
+
+FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation (ICML 2021)
+
+Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback (RecSys 2021)
+
+Fast-adapting and Privacy-preserving Federated Recommender System (VLDB 2021)
+
+Federated Multi-Armed Bandits (AAAI 2021) & Federated Multi-armed Bandits with Personalization (AISTATS 2021)
+
+
+### Week 12 (Privacy-based Recommendation - Part.3)
+
+DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce (WWW 2021)
+
+FedeRank: User Controlled Feedback with Federated Recommender Systems (ECIR 2021)
+
+FedRec++: Lossless Federated Recommendation with Explicit Feedback (AAAI 2021)
+
+A Federated Recommender System for Online Services (RecSys 2020)
+
+DPLCF: Differentially Private Local Collaborative Filtering (SIGIR 2020)
+
+
+### Week 13 (Privacy-based Recommendation - Part.4)
+
+Privacy-Preserving News Recommendation Model Learning (EMNLP 2020)
+
+Differentially private knowledge transfer for federated learning (Nature Communication 2023)
+
+PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation (KDD 2022)
+
+A federated graph neural network framework for privacy-preserving personalization (Nature Communication 2022)
+
+Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation (EMNLP 2021)
+
