@@ -124,7 +124,7 @@ Contrastive Cross-Domain Sequential Recommendation (CIKM 2022)
 
 Towards Universal Cross-Domain Recommendation (WSDM 2023)
 
-CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process (WSDM 2024)
+FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning (SDM 2024)
 
 
 
